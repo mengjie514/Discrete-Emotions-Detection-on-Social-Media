@@ -26,5 +26,5 @@ This research provides a systematic review and comparative analysis of analytica
 
 - This study focused on five analytical tools. Future research could explore additional tools like MeaningCloud and ParallelDots, commonly used in commercial contexts.
 - Rapid advancements in AI suggest the need to evaluate emerging tools, including OpenAI's latest models, Microsoft Copilot, and Google Gemini.
-- Enhancing the alignment of AI-based tools with psychologically defined emotions remains a critical avenue for researc
+- Enhancing the alignment of AI-based tools with psychologically defined emotions remains a critical avenue for research.
 
